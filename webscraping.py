@@ -42,10 +42,6 @@ watch_review=watch_review+ip
 
 
 
-name=soup.find_all('span',{'class':'a-profile-name'})
-content=soup.find_all('a',{'class':'review-title-content'})
-rating=soup.find_all('i',{'class':'review-rating'})
-comment =soup.find_all('span',{'class':'review-text-content'})
-date =soup.find_all('span',{'class':'review-date'})
+
 
 
